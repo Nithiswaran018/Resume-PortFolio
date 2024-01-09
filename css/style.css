@@ -154,8 +154,9 @@ a:focus {
     }
 
     .wrapper .sidebar .sidebar-header img {
-        width: 100%;
-        height: auto;
+        width: 80%;
+        height: max-content;
+        margin: 30PX;
     }
     
     .navbar-brand {
@@ -423,14 +424,14 @@ a:focus {
 /**********************************/
 .about {
     position: relative;
-    padding: 60px 30px;
+    padding: 50px 30px;
     background: #ffffff;
     border-bottom: 30px solid #F6D155;
 }
 
 
 .about img {
-    width: 100%;
+    width: 85%;
     height: auto;
 }
 
